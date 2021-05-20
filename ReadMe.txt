@@ -1,4 +1,4 @@
-Your about me page MUST be your index.html that file is 100% needed in order to successfully push to GitHub (aka DO NOT CHANGE THAT FILE NAME). I have also set-up demo pages for other content that is required as well as a CSS and JavaScript Page.  change
+Your about me page MUST be your index.html that file is 100% needed in order to successfully push to GitHub (aka DO NOT CHANGE THAT FILE NAME). I have also set-up demo pages for other content that is required as well as a CSS and JavaScript Page.  edits
 
 Those two must stay as the generic name as well to integrate with github properly.
 
